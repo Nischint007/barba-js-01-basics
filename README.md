@@ -170,6 +170,7 @@ These styles are **mandatory for smooth transitions**:
 ## ✍️ Author
 
 **Nischint Singh**
+
 Linkedin: https://www.linkedin.com/in/nischint-singh-98a329314/
 ---
 
