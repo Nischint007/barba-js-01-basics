@@ -170,7 +170,6 @@ These styles are **mandatory for smooth transitions**:
 ## ✍️ Author
 
 **Nischint Singh**
-
+Linkedin: https://www.linkedin.com/in/nischint-singh-98a329314/
 ---
 
-This is the first step in building **Awwwards-level websites with smooth transitions** using Barba.js.
