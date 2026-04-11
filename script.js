@@ -8,7 +8,7 @@ barba.init({
       return gsap.to(data.current.container,{
         y: "-100%",
         scale: 0.7,
-        duration: 1.2,
+        duration: 1.3,
         ease: "power3.inOut"
       });
     },
@@ -21,7 +21,7 @@ barba.init({
       return gsap.to(data.next.container,{
         y: "0%",
         scale: 1,
-        duration: 1.2,
+        duration: 1,
         ease: "power3.inOut"
       });
     }
